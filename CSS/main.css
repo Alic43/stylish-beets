@@ -17,14 +17,14 @@ h1 {
   color: #3f1622;
 }
 
-nav ol {
+nav *ol {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.25rem;
-  color: #8f2440
+  color: #8f2440;
 }
 
 figcaption {
   font-family: 'PT Serif', serif;
   font-style: italic;
-  align-content: center;
+  text-align: center;
 }
