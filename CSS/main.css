@@ -16,3 +16,9 @@ h1 {
   font-size: 1.5rem;
   color: #3f1622;
 }
+
+a nav {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.25rem;
+  color: #8f2440;
+}
