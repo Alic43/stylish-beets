@@ -22,3 +22,7 @@ nav ol {
   font-size: 1.25rem;
   color: #8f2440
 }
+
+figcaption {
+  font-family: 'PT Serif', serif;
+}
