@@ -33,11 +33,13 @@ a {
 
 a:hover {
   color: #3f1622;
+  text-decoration: underline;
 }
 
 img {
-  align-items: center;
+  width: auto;
 }
+
 figcaption {
   font-style: italic;
   text-align: center;
