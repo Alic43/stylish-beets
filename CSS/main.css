@@ -41,6 +41,10 @@ p:nth-of-type(1) {
   font-weight: bold;
 }
 
+p {
+  font-weight: normal;
+}
+
 blockquote:not(cite) {
   font-style: italic;
   font-size: 1.5rem;
