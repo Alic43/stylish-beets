@@ -21,7 +21,7 @@ h1 {
 
 nav ol {
   font-family: "PT Sans", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   list-style-type: none;
   font-weight: bold;
 }
@@ -39,7 +39,7 @@ a:hover {
 img {
   max-width: 100%;
   height: auto;
-  width: 100%
+  width: 100%;
 }
 
 figcaption {
