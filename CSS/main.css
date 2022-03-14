@@ -20,5 +20,8 @@ h1 {
 nav ul {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.25rem;
+}
+
+ul li {
   color: #8f2440;
 }
