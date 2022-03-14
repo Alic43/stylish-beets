@@ -25,4 +25,6 @@ nav ol {
 
 figcaption {
   font-family: 'PT Serif', serif;
+  font-style: italic;
+  align-content: center;
 }
