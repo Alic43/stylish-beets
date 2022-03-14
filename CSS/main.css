@@ -35,7 +35,7 @@ figcaption {
   font-size: 1.25rem;
 }
 
-p:first-child {
+p {
   font-family: 'PT Sans', sans-serif;
   font-style: bold;
   font-size: 1.5rem;
